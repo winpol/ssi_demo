@@ -9,6 +9,8 @@ public class TestDao {
 		// TODO Auto-generated method stub
 		
 		System.out.println("welcome...dao...");
+		System.out.println("first update");
+		System.out.println("2 time update");
 	}
 
 }
