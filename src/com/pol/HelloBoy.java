@@ -8,7 +8,7 @@ public class HelloBoy {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hello Boy");
+		System.out.println("Hello Boy add by wxb");
 	}
 
 }
