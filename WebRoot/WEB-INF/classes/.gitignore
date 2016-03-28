@@ -1,6 +1,15 @@
 /com
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> da06b0eb8796a50fc66832daa48294159ed3aafc
 /config.properties
 /log4j.properties
 /spring-mvc.xml
 /spring-mybatis.xml
 /spring.xml
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> branch 'master' of https://github.com/winpol/helloworld.git
+>>>>>>> da06b0eb8796a50fc66832daa48294159ed3aafc
